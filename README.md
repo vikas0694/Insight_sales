@@ -5,12 +5,12 @@ Based on a computer hardware business which is facing challenges in dynamically 
 
 
 
- **Total reveneu **
+**Reveneu**
  
  ![image](https://github.com/vikas0694/Insight_sales/blob/master/Reveneu.png?raw=true "Total Reveneu generated ")
 
 
- **Profit **
+**Profit**
 
 
  ![image](https://github.com/vikas0694/Insight_sales/blob/master/Profit_margin.png?raw=true "Total Reveneu generated ")
